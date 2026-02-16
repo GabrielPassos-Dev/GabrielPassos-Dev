@@ -12,5 +12,13 @@
 - CSS
 - Tailwind
 
+## 🎨 UI/UX
+Também tenho experiência em design de interfaces, focando em:
+- Usabilidade
+- Hierarquia visual
+- Design responsivo
+- Protótipos de interfaces
+Ferramentas: Figma, Photoshop, Canva
+
 ## 🌐 Projetos Online
 - https://project-react-training-one.vercel.app/
