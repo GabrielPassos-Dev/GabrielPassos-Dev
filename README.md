@@ -18,6 +18,7 @@ Também tenho experiência em design de interfaces, focando em:
 - Hierarquia visual
 - Design responsivo
 - Protótipos de interfaces
+  
 Ferramentas: Figma, Photoshop, Canva
 
 ## 🌐 Projetos Online
