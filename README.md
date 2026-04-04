@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação na UFJF  
 💻 Desenvolvedor Full Stack em evolução  
-🚀 Focado em construir aplicações completas com front-end e back-end  
+🚀 Experiência na construção de aplicações completas com front-end, back-end e banco de dados  
 
 ---
 
@@ -26,6 +26,7 @@
 - Express.js  
 - REST API  
 - Prisma ORM  
+- Middlewares (autenticação e validação)  
 
 ---
 
@@ -46,18 +47,19 @@
 ---
 
 ### 🧠 Conceitos e Práticas
-- Integração front-end e back-end  
-- Consistência de dados  
-- Regras de negócio no back-end  
-- Arquitetura baseada em controllers e services  
-- Gerenciamento de estado global  
-- Idempotência de operações  
-- APIs RESTful  
+- Desenvolvimento full stack (front-end + back-end + banco de dados)  
+- Integração entre cliente e servidor (API REST)  
+- Consistência de dados e regras de negócio  
+- Arquitetura baseada em controllers, services e hooks  
+- Gerenciamento de estado global (Context API)  
+- Operações idempotentes  
+- Manipulação de estado assíncrono  
+- Boas práticas de organização de código  
 
 ---
 
 ### 💡 Linguagens
-- C++
+- C++ (domínio)  
 - JavaScript  
 
 ---
@@ -78,8 +80,8 @@ Figma • Photoshop • Canva
 
 ## 🌐 Projetos Online
 
-- https://control-monthly-expenses-frontend.vercel.app/login
-- https://project-react-training-one.vercel.app/
+- https://control-monthly-expenses-frontend.vercel.app/login  
+- https://project-react-training-one.vercel.app/  
 
 ---
 
@@ -90,3 +92,4 @@ Atualmente focado em:
 - Aprimorar TypeScript  
 - Estudar Next.js  
 - Evoluir arquitetura de aplicações full stack  
+- Boas práticas de back-end e escalabilidade  
