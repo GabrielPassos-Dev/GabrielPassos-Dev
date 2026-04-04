@@ -78,6 +78,7 @@ Figma • Photoshop • Canva
 
 ## 🌐 Projetos Online
 
+- https://control-monthly-expenses-frontend.vercel.app/login
 - https://project-react-training-one.vercel.app/
 
 ---
