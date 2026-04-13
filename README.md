@@ -47,14 +47,12 @@
 ---
 
 ### 🧠 Conceitos e Práticas
-- Desenvolvimento full stack (front-end + back-end + banco de dados)  
-- Integração entre cliente e servidor (API REST)  
-- Consistência de dados e regras de negócio  
-- Arquitetura baseada em controllers, services e hooks  
-- Gerenciamento de estado global (Context API)  
-- Operações idempotentes  
-- Manipulação de estado assíncrono  
-- Boas práticas de organização de código  
+- Desenvolvimento full stack (front-end, back-end e banco)
+- Integração cliente-servidor (REST APIs)
+- Arquitetura em camadas (controllers, services)
+- Gerenciamento de estado (Context API)
+- Consistência de dados e regras de negócio
+- Operações idempotentes
 
 ---
 
@@ -80,8 +78,11 @@ Figma • Photoshop • Canva
 
 ## 🌐 Projetos Online
 
-- https://control-monthly-expenses-frontend.vercel.app/login  
-- https://project-react-training-one.vercel.app/  
+- Sistema de Controle Financeiro  
+  https://control-monthly-expenses-frontend.vercel.app/login  
+
+- Projeto de Treinamento React ( Lista de compras Inteligente ) 
+  https://project-react-training-one.vercel.app/ 
 
 ---
 
