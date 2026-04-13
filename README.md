@@ -32,7 +32,7 @@
 
 ### 🗄️ Banco de Dados
 - MongoDB  
-- PostgreSQL (em aprendizado)  
+- PostgreSQL
 
 ---
 
