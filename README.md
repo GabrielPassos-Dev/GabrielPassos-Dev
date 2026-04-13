@@ -79,10 +79,10 @@ Figma • Photoshop • Canva
 ## 🌐 Projetos Online
 
 - Sistema de Controle Financeiro  
-  https://control-monthly-expenses-frontend.vercel.app/login  
+https://control-monthly-expenses-frontend.vercel.app/login  
 
 - Projeto de Treinamento React ( Lista de compras Inteligente )
-  https://project-react-training-one.vercel.app/ 
+https://project-react-training-one.vercel.app/ 
 
 ---
 
