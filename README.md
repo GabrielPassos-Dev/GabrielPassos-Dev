@@ -57,7 +57,7 @@
 ---
 
 ### 💡 Linguagens
-- C++ (domínio)  
+- C++
 - JavaScript  
 
 ---
@@ -90,7 +90,7 @@ Criação de interfaces focadas em usabilidade e experiência do usuário
 
 Atualmente focado em:
 
-- Aprimorar TypeScript  
-- Estudar Next.js  
+- Aprimorar TypeScript + Next.js 
+- Estudar Phyton  
 - Evoluir arquitetura de aplicações full stack  
 - Boas práticas de back-end e escalabilidade  
