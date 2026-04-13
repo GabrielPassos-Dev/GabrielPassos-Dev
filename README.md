@@ -71,18 +71,18 @@ Também tenho experiência em design de interfaces, focando em:
 - Design responsivo  
 - Prototipação de interfaces  
 
-Ferramentas:  
-Figma • Photoshop • Canva  
+Ferramentas: Figma • Photoshop • Canva  
+Criação de interfaces focadas em usabilidade e experiência do usuário
 
 ---
 
 ## 🌐 Projetos Online
 
-- Sistema de Controle Financeiro  
-https://control-monthly-expenses-frontend.vercel.app/login  
+- Sistema de Controle Financeiro
+  - https://control-monthly-expenses-frontend.vercel.app/login  
 
 - Projeto de Treinamento React ( Lista de compras Inteligente )
-https://project-react-training-one.vercel.app/ 
+  - https://project-react-training-one.vercel.app/ 
 
 ---
 
