@@ -8,29 +8,14 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🧠 Linguagens & Core
-![Java](https://shields.io)
-![C++](https://shields.io)
-![Flutter](https://shields.io)
-![TypeScript](https://shields.io)
-![JavaScript](https://shields.io)
-![Git](https://shields.io)
-
-### 🌐 Front-end & Mobile
-![React](https://shields.io)
-![Next.js](https://shields.io)
-![TailwindCSS](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-
-### ⚙️ Back-end & Banco de Dados
-![NodeJS](https://shields.io)
-![Express.js](https://shields.io)
-![PostgreSQL](https://shields.io)
-![MongoDB](https://shields.io)
-![Prisma](https://shields.io)
-
-
+| 🧠 Linguagens & Core | 🌐 Front-end & Mobile | ⚙️ Back-end & Bancos |
+| :--- | :--- | :--- |
+| • **Java** | • **React.js** | • **Node.js** |
+| • **C++** | • **Next.js** | • **Express.js** |
+| • **Flutter** | • **Tailwind CSS** | • **PostgreSQL** |
+| • **TypeScript** | • **HTML5** | • **MongoDB** |
+| • **JavaScript** | • **CSS3** | • **Prisma ORM** |
+| • **Git** | | |
 
 ---
 
