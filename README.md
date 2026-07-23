@@ -9,32 +9,27 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 🧠 Linguagens & Core
-<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
-  <img src="https://jsdelivr.net" width="50" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
-  <img src="https://jsdelivr.net" width="50" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
-</div>
+![Java](https://shields.io)
+![C++](https://shields.io)
+![Flutter](https://shields.io)
+![TypeScript](https://shields.io)
+![JavaScript](https://shields.io)
+![Git](https://shields.io)
 
 ### 🌐 Front-end & Mobile
-<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
-</div>
+![React](https://shields.io)
+![Next.js](https://shields.io)
+![TailwindCSS](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 
 ### ⚙️ Back-end & Banco de Dados
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img src="https://jsdelivr.net" width="50" title="Node.js"/>
-  <img src="https://jsdelivr.net" width="50" title="Express.js"/>
-  <img src="https://jsdelivr.net" width="50" title="PostgreSQL"/>
-  <img src="https://jsdelivr.net" width="50" title="MongoDB"/>
-  <img src="https://jsdelivr.net" width="50" title="Prisma ORM"/>
-</div>
+![NodeJS](https://shields.io)
+![Express.js](https://shields.io)
+![PostgreSQL](https://shields.io)
+![MongoDB](https://shields.io)
+![Prisma](https://shields.io)
+
 
 
 ---
