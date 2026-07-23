@@ -2,7 +2,8 @@
 
 🎓 Estudante de Ciência da Computação na UFJF  
 💻 **Software Developer & Embedded Software Engineer**
-🚀 Experiência na construção de sistemas de ponta a ponta: do baixo nível ao ecossistema mobile e web.
+🚀 Experiência na 
+construção de sistemas de ponta a ponta: do baixo nível ao ecossistema mobile e web.
 
 ---
 
