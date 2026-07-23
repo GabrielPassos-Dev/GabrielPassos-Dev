@@ -2,14 +2,13 @@
 
 🎓 Estudante de Ciência da Computação na UFJF  
 💻 **Software Developer & Embedded Software Engineer**
-🚀 Experiência na 
-construção de sistemas de ponta a ponta: do baixo nível ao ecossistema mobile e web.
+🚀 Experiência na construção de sistemas de ponta a ponta: do baixo nível ao ecossistema mobile e web.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p>
+<p gap="4">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" alt="Flutter"/>
