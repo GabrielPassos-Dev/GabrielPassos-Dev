@@ -8,23 +8,15 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-| 🧠 Linguagens & Core | 🌐 Front-end & Mobile | ⚙️ Back-end & Bancos |
-| :--- | :--- | :--- |
-| • **Java** | • **React.js** | • **Node.js** |
-| • **C++** | • **Next.js** | • **Express.js** |
-| • **Flutter** | • **Tailwind CSS** | • **PostgreSQL** |
-| • **TypeScript** | • **HTML5** | • **MongoDB** |
-| • **JavaScript** | • **CSS3** | • **Prisma ORM** |
-| • **Git** | | |
+### 🧠 Linguagens & Core
+<img src="https://githubusercontent.com" width="45" height="45" alt="Java" /> <img src="https://githubusercontent.com" width="45" height="45" alt="C++" /> <img src="https://githubusercontent.com" width="45" height="45" alt="Flutter" /> <img src="https://githubusercontent.com" width="45" height="45" alt="TypeScript" /> <img src="https://githubusercontent.com" width="45" height="45" alt="JavaScript" /> <img src="https://githubusercontent.com" width="45" height="45" alt="Git" />
 
----
+### 🌐 Front-end & Mobile
+<img src="https://githubusercontent.com" width="45" height="45" alt="React" /> <img src="https://githubusercontent.com" width="45" height="45" alt="Next.js" /> <img src="https://githubusercontent.com" width="45" height="45" alt="Tailwind CSS" /> <img src="https://githubusercontent.com" width="45" height="45" alt="HTML5" /> <img src="https://githubusercontent.com" width="45" height="45" alt="CSS3" />
 
-### ⚙️ Back-end
-- Node.js  
-- Express.js  
-- REST API  
-- Prisma ORM  
-- Middlewares (autenticação e validação)  
+### ⚙️ Back-end & Banco de Dados
+<img src="https://githubusercontent.com" width="45" height="45" alt="Node.js" /> <img src="https://githubusercontent.com" width="45" height="45" alt="Express.js" /> <img src="https://githubusercontent.com" width="45" height="45" alt="PostgreSQL" /> <img src="https://githubusercontent.com" width="45" height="45" alt="MongoDB" /> <img src="https://githubusercontent.com" width="45" height="45" alt="Prisma" />
+
 
 ---
 
