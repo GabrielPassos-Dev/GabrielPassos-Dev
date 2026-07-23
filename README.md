@@ -20,49 +20,24 @@
 
 ---
 
-### 🗄️ Banco de Dados
-- MongoDB  
-- PostgreSQL
+## 🎯 Frentes de Atuação
+
+* ☕ **Back-end (Java & Node.js):** Desenvolvimento de APIs REST robustas, arquitetura em camadas (controllers, services), middlewares de autenticação (JWT)/validação (Zod) e consistência de regras de negócio.
+* 🤖 **Firmware & IoT (C++):** Programação de baixo nível, sistemas embarcados e desenvolvimento de software otimizado diretamente no hardware.
+* 📱 **Front-end & Mobile (React & Flutter):** Criação de aplicações web dinâmicas e desenvolvimento multiataforma mobile fluido quando o escopo do projeto exige.
 
 ---
 
-### 🔐 Autenticação
-- JWT (JSON Web Token)  
-
----
-
-### ✅ Validação
-- Zod  
-
----
-
-### 🧠 Conceitos e Práticas
-- Desenvolvimento full stack (front-end, back-end e banco)
-- Integração cliente-servidor (REST APIs)
-- Arquitetura em camadas (controllers, services)
-- Gerenciamento de estado (Context API)
-- Consistência de dados e regras de negócio
-- Operações idempotentes
-
----
-
-### 💡 Linguagens
-- C++
-- JavaScript  
+## 🧠 Conceitos e Práticas
+- Arquitetura de software e operações idempotentes.
+- Gerenciamento de estado complexo (Context API).
+- Integração segura cliente-servidor e modelagem de bancos relacionais e NoSQL.
 
 ---
 
 ## 🎨 UI/UX
-
-Também tenho experiência em design de interfaces, focando em:
-
-- Usabilidade  
-- Hierarquia visual  
-- Design responsivo  
-- Prototipação de interfaces  
-
-Ferramentas: Figma • Photoshop • Canva  
-Criação de interfaces focadas em usabilidade e experiência do usuário
+Experiência no desenho de interfaces com foco em usabilidade, hierarquia visual e design responsivo.
+* **Ferramentas:** Figma • Photoshop • Canva
 
 ---
 
@@ -76,11 +51,6 @@ Criação de interfaces focadas em usabilidade e experiência do usuário
 
 ---
 
-## 🚀 Em evolução
-
-Atualmente focado em:
-
-- Aprimorar TypeScript + Next.js 
-- Estudar Phyton  
-- Evoluir arquitetura de aplicações full stack  
-- Boas práticas de back-end e escalabilidade  
+## 🚀 Em Evolução
+- Avançando no ecossistema **Java** para grandes arquiteturas corporativas.
+- Aperfeiçoando desenvolvimento de firmware e IoT com **C++**.
