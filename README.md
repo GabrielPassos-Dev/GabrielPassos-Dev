@@ -9,14 +9,32 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 🧠 Linguagens & Core
-<img src="https://githubusercontent.com" width="45" height="45" alt="Java" /> <img src="https://githubusercontent.com" width="45" height="45" alt="C++" /> <img src="https://githubusercontent.com" width="45" height="45" alt="Flutter" /> <img src="https://githubusercontent.com" width="45" height="45" alt="TypeScript" /> <img src="https://githubusercontent.com" width="45" height="45" alt="JavaScript" /> <img src="https://githubusercontent.com" width="45" height="45" alt="Git" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+</p>
 
 ### 🌐 Front-end & Mobile
-<img src="https://githubusercontent.com" width="45" height="45" alt="React" /> <img src="https://githubusercontent.com" width="45" height="45" alt="Next.js" /> <img src="https://githubusercontent.com" width="45" height="45" alt="Tailwind CSS" /> <img src="https://githubusercontent.com" width="45" height="45" alt="HTML5" /> <img src="https://githubusercontent.com" width="45" height="45" alt="CSS3" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
+</p>
 
 ### ⚙️ Back-end & Banco de Dados
-<img src="https://githubusercontent.com" width="45" height="45" alt="Node.js" /> <img src="https://githubusercontent.com" width="45" height="45" alt="Express.js" /> <img src="https://githubusercontent.com" width="45" height="45" alt="PostgreSQL" /> <img src="https://githubusercontent.com" width="45" height="45" alt="MongoDB" /> <img src="https://githubusercontent.com" width="45" height="45" alt="Prisma" />
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" alt="Prisma"/>
+</p>
 
 ---
 
