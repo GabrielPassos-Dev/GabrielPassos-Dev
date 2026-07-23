@@ -1,23 +1,41 @@
 # 👋 Olá, eu sou Gabriel Passos
 
 🎓 Estudante de Ciência da Computação na UFJF  
-💻 Desenvolvedor Full Stack focado em aplicações web  
-🚀 Experiência na construção de sistemas completos (front-end, back-end e banco de dados)
+💻 **Software Developer & Embedded Software Engineer**
+🚀 Experiência na construção de sistemas de ponta a ponta: do baixo nível ao ecossistema mobile e web.
 
 ---
 
-## 🛠️ Tecnologias
-<div style="display: flex; gap: 30px; flex-wrap: wrap;"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" title="C++"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" title="CSS"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" title="JavaScript"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" title="TypeScript"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" title="React.js"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" title="Next.js (em aprendizado)"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" title="Tailwind CSS"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" title="Git"/>
+## 🛠️ Tecnologias e Ferramentas
+
+### 🧠 Linguagens & Core
+<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://jsdelivr.net" width="50" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
+  <img src="https://jsdelivr.net" width="50" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
 </div>
+
+### 🌐 Front-end & Mobile
+<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+</div>
+
+### ⚙️ Back-end & Banco de Dados
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img src="https://jsdelivr.net" width="50" title="Node.js"/>
+  <img src="https://jsdelivr.net" width="50" title="Express.js"/>
+  <img src="https://jsdelivr.net" width="50" title="PostgreSQL"/>
+  <img src="https://jsdelivr.net" width="50" title="MongoDB"/>
+  <img src="https://jsdelivr.net" width="50" title="Prisma ORM"/>
+</div>
+
 
 ---
 
